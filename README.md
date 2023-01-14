@@ -22,9 +22,14 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/LISA-KOREA/UPLOADER-BOT-V3&branch=Master&name=UPLOADER-BOT-V3)
 
-###NOTICE
+### NOTICE
 
 Use koyeb.txt file to deploy in koyeb
+
+#### How To Create Your Owner [YouTube Link](https://github.com/LISA-KOREA/UPLOADER-BOT-V3) (**Koyeb**)
+
+#### How To Create Mongodb Url Video [YouTube Link](https://youtu.be/VudXkbirhM8)
+
 
 ### Comment
 
